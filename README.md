@@ -27,21 +27,24 @@
 
 ## Screenshots
 <img width="214" height="163" alt="image" src="https://github.com/user-attachments/assets/9675ff2c-17d4-410a-9b57-62d5c7ddfd80" />
+
 #### Data Type
 <img width="171" height="153" alt="image" src="https://github.com/user-attachments/assets/533726c1-cec9-4130-9d8d-1e9e76a49204" />
+
 #### Collection Type
 <img width="217" height="110" alt="image" src="https://github.com/user-attachments/assets/a152f20e-3a68-4d02-87ea-0d5f4fb1ef74" />
+
 #### Collection Size
 <img width="167" height="134" alt="image" src="https://github.com/user-attachments/assets/5a9a56cf-709b-41b0-aa7b-3fc2c132bba3" />
+
 #### Test Type
 <img width="176" height="112" alt="image" src="https://github.com/user-attachments/assets/15eb84fc-d24b-4aa9-8bfb-b8801a2c460c" />
+
 #### Output
 <img width="230" height="69" alt="image" src="https://github.com/user-attachments/assets/92bbf10a-18a4-4fe5-b5fe-d0962ff4da32" />
+
 **Console**
 <img width="493" height="135" alt="image" src="https://github.com/user-attachments/assets/f2473b46-8bd3-4786-b5f7-ed2401f194ba" />
+
 **CSV**
 <img width="463" height="57" alt="image" src="https://github.com/user-attachments/assets/30e00643-bd9d-4fc4-aa3b-5ff0f7725bd3" />
-
-
-
-
