@@ -43,10 +43,10 @@
 #### Output
 <img width="230" height="69" alt="image" src="https://github.com/user-attachments/assets/92bbf10a-18a4-4fe5-b5fe-d0962ff4da32" />
 
-
 **Console**
+
 <img width="493" height="135" alt="image" src="https://github.com/user-attachments/assets/f2473b46-8bd3-4786-b5f7-ed2401f194ba" />
 
-
 **CSV**
+
 <img width="463" height="57" alt="image" src="https://github.com/user-attachments/assets/30e00643-bd9d-4fc4-aa3b-5ff0f7725bd3" />
